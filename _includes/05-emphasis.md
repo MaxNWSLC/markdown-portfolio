@@ -1,4 +1,4 @@
-* <b>C#</b>
-* JS
-* HTML
-* CSS
+* **C#**
+* **JS**
+* _HTML_
+* _CSS_
